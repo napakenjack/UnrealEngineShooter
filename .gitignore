@@ -6,7 +6,13 @@
 *.lo
 *.o
 *.obj
+
+# Unused files
 *.uasset
+*.umap
+*.json
+*.ini
+*.rsp
 
 # Precompiled Headers
 *.gch
